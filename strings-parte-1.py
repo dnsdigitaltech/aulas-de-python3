@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Strings é um tipo de dados em que se armazena coleções de caracteres, são declaradas entre as aspas.
 
 var1 = 1
